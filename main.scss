@@ -1,0 +1,12 @@
+@import "_variables.scss";
+@import "_container.scss";
+
+body{
+    background-color: $bg-black;
+    color: $white;
+    
+    ul {
+        list-style-type: $none-bullets;
+    }
+    
+}

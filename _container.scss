@@ -1,0 +1,18 @@
+
+#container {
+    display: $flex;
+    flex-wrap: $flex-wrap;
+    align-items: $flex-start;
+    flex-direction: $row;
+    max-height: $max-height;
+    max-width: $width;
+    justify-content: $center;
+}
+
+
+#container img {
+    max-width: $max-width;
+   margin: 5px;
+
+}
+
